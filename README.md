@@ -3,8 +3,9 @@ Volley is an HTTP library that makes networking for Android apps easier and most
 
 ## dependencies
 
-```build.gradle
-{
+```gradle
+
+dependencies{
 implementation 'com.android.volley:volley:1.1.1'
 }
 
